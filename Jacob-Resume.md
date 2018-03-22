@@ -17,7 +17,11 @@ Email: lipech@hotmail.com | GitHub: https://github.com/jacoblipech | LinkedIn: h
 * Evaluate company needs and teach business owners the power of Google Analytics. 
 
 #### NUS Skylab Development (Jan 2018 - Present)
-* Contribute to NUS Skylab, a  Ruby on Rails online web application to help out with the NUS Orbital module adminstrative processes.
+* Contribute to NUS Skylab, a  Ruby on Rails online web application to help out with the NUS Orbital module adminstrative processes
+
+#### Astar Biomedial Image Understanding Research (Jan 2018 - Present)
+* Using machine learning and computer vision techniques, research on an algorithm to find out the disease through training of an image and corresponding medical reports
+* Eventually , a medical report will be generated for the test images
 
 ## Projects
 
